@@ -1,9 +1,8 @@
 Friday 02 September 2022 03:50:56 PM IST
-1.jdk ? jvm ? java working
-
+1.jvm working
 2.minisweep game
 3.continue hackerrank problems
 4.RegEx java
-5.
+5.package class concepts
 *.zoom problem
 :) ideas.txt
