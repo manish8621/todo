@@ -1,0 +1,74 @@
+3-sep-2022
+jre jdk basics
+
+5 sep-2022
+javac options
+@[file containg options] -d, -sourcepath
+
+Tuesday 06 September 2022 10:18:10 AM IST
+prime Data types
+most significant bit msb = -128 = 1 [128's binary val] *
+
+*ranges in primaitive data types
+
+why java isnt pure object oriented
+primitive data types
+static methods
+
+litrals/ litral pool 
+all constants are litrals 0,1.1,'a',"gh",true
+
+
+if byte gets value less than lowest value underflow *
+
+number system and data type
+0[numbers] - octal 0123 -^0[0-7]+
+0B[bin val] - binary 0B10101 - \d[B][10]+
+0x[hex] - \d[x][0-9A-F]+
+
+What is POJO/Model class/DTO?  ####
+just a class with data members getter and setter methods
+ all object have public getter setter 
+ all instance var are private
+ must not extend any class,implemnt any interface,have prespecified annotation
+
+
+
+type cast conversion
+
+Class =2 Operators
+
+binary numbers conversion
+~ operation why leading zero alo matters
+  swap 2 numbers uing xor
+  exor to check dupicates
+  how to find if negative or poitive bin value
+  
+	
+ternery statement = shorthand if else
+
+
+Arrays. methods
+copyof
+copyof range
+deppHashcode
+hash code
+more about heap stack garbage collections
+
+
+Exception
+learn debugging
+
+
+Collections
+interfaces and utility classes
+
+Sanjeeviraj Manivannan3 minutes ago
+Collection - interface
+Collections - utility class
+List interface
+Vector
+Stack
+LinkedList
+
+try adding many elements and compare how different collections takes time to do op

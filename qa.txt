@@ -1,0 +1,11 @@
+
+
+
+[]
+method([])
+[mod]
+
+
+Tuesday 06 September 2022 10:18:15 AM IST
+why when byte overflow to -127
+can i do main() without class
